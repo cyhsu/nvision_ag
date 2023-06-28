@@ -26,7 +26,8 @@ matplotlib==3.7.1
 matplotlib-inline==0.1.6
 nest-asyncio==1.5.6
 numpy==1.25.0
--e git+ssh://git@github.com/cyhsu/nvision_ag.git@a50c467b2291be5a1132cc9610de417ddcbdf680#egg=nvision_ag
+jupyter
+-e git+https://git@github.com/cyhsu/nvision_ag.git#egg=nvision_ag
 packaging==23.1
 pandas==2.0.2
 parso==0.8.3
