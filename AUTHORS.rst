@@ -5,9 +5,9 @@ Credits
 Development Lead
 ----------------
 
-* nvisionag <cyhsu.job@gmail.com>
+* Chuan-Yuan Hsu <cyhsu.job@gmail.com>
 
 Contributors
 ------------
 
-None yet. Why not be the first?
+* Tsz-Yi Yang <yangze2065@gmail.com>
