@@ -23,10 +23,13 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 * Documentation: https://nvision-ag.readthedocs.io.
 
 
-Features
---------
+Usage
+------------
 
-* TODO
+* To install this package, typing
+`pip install -e .`
+
+* To check the usage example, check **notebook/nvision_ag_usage.ipynb**
 
 Credits
 -------
