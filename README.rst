@@ -26,8 +26,11 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 Usage
 ------------
 
+* Creating a virtual environment for your installation is consistently encouraged.
+CLI: ``python -m venv <your_virtual_env_path>``
+
 * To install this package, typing
-`pip install -e .`
+CLI: ``pip install -e .``
 
 * To check the usage example, check **notebook/nvision_ag_usage.ipynb**
 
