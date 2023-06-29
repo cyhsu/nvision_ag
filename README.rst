@@ -28,12 +28,18 @@ Usage
 * This package is tested under Python=3.10 
 
 * Creating a virtual environment for your installation is consistently encouraged.
-CLI: ``python -m venv <your_virtual_env_name>``
+CLI: ``python -m venv <your_virtual_env_path>``
+
+* Activate your virtual environment
+CLI: ``source <your_virtual_env_path>/bin/activate``
 
 * To install this package, typing
 CLI: ``pip install -r requirements_dev.txt``
 
 * To check the usage example, check **notebook/nvision_ag_usage.ipynb**
+
+* To exit your virtual environment
+CLI: ``deactivate``
 
 Credits
 -------
